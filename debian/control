@@ -1,0 +1,16 @@
+Source: fdsend
+Section: python
+Priority: extra
+Maintainer: Fabian Knittel <fabian.knittel@avona.com>
+Build-Depends: debhelper (>= 7), python-support (>= 0.5.3)
+Standards-Version: 3.8.4
+
+Package: python-fdsend
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ${python:Depends}
+Provides: ${python:Provides}
+Description: Provides an abstraction for file descriptor passing via sockets
+ fdsend is yet another file descriptor passing abstraction, specifically for
+ Python. This package offers a few conveniences not commonly found together in
+ other abstractions: sending multiple files at once, sending arbitrary data,
+ and working with both files and file descriptors.
