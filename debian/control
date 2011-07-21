@@ -3,7 +3,7 @@ Section: python
 Priority: extra
 Maintainer: Fabian Knittel <fabian.knittel@avona.com>
 Uploaders: Philipp Kern <pkern@debian.org>
-Build-Depends: debhelper (>= 7.0.15), python-support (>= 0.5.3), python-all-dev, python-setuptools
+Build-Depends: debhelper (>= 7.0.50~), python-support (>= 0.5.3), python-all-dev, python-setuptools
 Standards-Version: 3.8.4
 
 Package: python-fdsend
