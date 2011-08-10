@@ -5,6 +5,9 @@ Maintainer: Fabian Knittel <fabian.knittel@avona.com>
 Uploaders: Philipp Kern <pkern@debian.org>
 Build-Depends: debhelper (>= 7.0.50~), python-support (>= 0.5.3), python-all-dev, python-setuptools
 Standards-Version: 3.8.4
+Homepage: https://gitorious.org/python-fdsend
+Vcs-Browser: https://gitorious.org/python-fdsend/debian
+Vcs-Git: git://gitorious.org/python-fdsend/debian.git
 
 Package: python-fdsend
 Architecture: any
