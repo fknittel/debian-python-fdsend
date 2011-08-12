@@ -1,0 +1,14 @@
+COPYING
+ChangeLog
+MANIFEST.in
+NEWS
+README
+_fdsend.c
+setup.cfg
+setup.py
+fdsend/__init__.py
+fdsend/tests.py
+fdsend.egg-info/PKG-INFO
+fdsend.egg-info/SOURCES.txt
+fdsend.egg-info/dependency_links.txt
+fdsend.egg-info/top_level.txt
