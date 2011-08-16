@@ -1,6 +1,7 @@
 fdsend (0.2.0-1) unstable; urgency=low
 
   * Initial upload.  (Closes: #634173)
+  * debian/control: set priority to optional
 
  -- Philipp Kern <pkern@debian.org>  Tue, 16 Aug 2011 22:54:31 +0200
 
