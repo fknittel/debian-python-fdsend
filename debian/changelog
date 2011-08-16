@@ -1,8 +1,8 @@
-fdsend (0.2.0-1) UNRELEASED; urgency=low
+fdsend (0.2.0-1) unstable; urgency=low
 
-  * New upstream release.
+  * Initial upload.  (Closes: #634173)
 
- -- Fabian Knittel <fabian.knittel@avona.com>  Fri, 12 Aug 2011 15:59:28 +0200
+ -- Philipp Kern <pkern@debian.org>  Tue, 16 Aug 2011 22:54:31 +0200
 
 fdsend (0.1-5) fsmi-lenny; urgency=low
 
