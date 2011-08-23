@@ -1,6 +1,6 @@
 Metadata-Version: 1.0
 Name: fdsend
-Version: 0.2.0
+Version: 0.2.1
 Summary: File descriptor passing (via SCM_RIGHTS)
 Home-page: https://gitorious.org/python-fdsend/pages/Home
 Author: Philipp Kern and Fabian Knittel
